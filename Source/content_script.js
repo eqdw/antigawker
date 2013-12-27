@@ -41,7 +41,7 @@ function isGawker(href){
     /^(https?:\/\/)?(www\.)?valleywag\.gawker\.com/
   ]
   var i;
-  for(i=0; i<9; i++){
+  for(i=0; i<gawkerSitesRegex.length; i++){
     if( href.match(gawkerSitesRegex[i])){
       return true;
     }
