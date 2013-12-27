@@ -33,4 +33,9 @@ Contribution
 Please run `rake` in the project directory to regenerate the .crx file
 before committing changes. Note that you need to have the crxmake gem
 installed for the rake task to work. Also note that my unix-fu is too
-weak to do installation detection in the rakefile. 
+weak to do installation detection in the rakefile. Also also note that
+crxmake generates a .pem file. I assume this is meaningful if I was
+actually listed in the chrome extension directory. Since I'm not, please
+delete those generated .pems. :D
+
+And thanks for contributing!
