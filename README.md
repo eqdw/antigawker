@@ -8,7 +8,7 @@ but enrage everyone, all for Gawker's profit margin. They paint a false
 picture of software engineers like me, to outrage their readers.
 Meanwhile, they fill me with existential depression, pointing to startup
 millionaires and shaming me for not keeping up with these unrealistic
-joneses. They are shame based tabloid journalists for tech.
+Joneses. They are shame based tabloid journalists for tech.
 
 [Direct download of crx
 file](https://github.com/eqdw/antigawker/blob/master/antigawker.crx?raw=true)
