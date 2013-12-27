@@ -26,3 +26,11 @@ Note that you can't find this in the Chrome store at the moment because
 I haven't gotten around to registering as a Chrome dev or whatever I
 have to do.
 
+
+
+Contribution
+------------
+Please run `rake` in the project directory to regenerate the .crx file
+before committing changes. Note that you need to have the crxmake gem
+installed for the rake task to work. Also note that my unix-fu is too
+weak to do installation detection in the rakefile. 
