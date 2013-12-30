@@ -2,13 +2,13 @@ Antigawker
 =============
 
 Chrome extension that replaces all links to any Gakwer Media sites with
-links to the google cache. Because those fuckers don't deserve our
-clicks. Valleywag's bullshit faux-class-warfare clickbait does nothing
-but enrage everyone, all for Gawker's profit margin. They paint a false
-picture of software engineers like me, to outrage their readers.
-Meanwhile, they fill me with existential depression, pointing to startup
-millionaires and shaming me for not keeping up with these unrealistic
-Joneses. They are shame based tabloid journalists for tech.
+links to the google cache. Because they don't deserve our clicks. 
+Valleywag's faux-class-warfare clickbait does nothing but enrage everyone,
+all for Gawker's profit margin. They paint a false picture of software
+engineers like me, to outrage their readers. Meanwhile, they fill me
+with existential depression, pointing to startup millionaires and shaming
+me for not keeping up with these unrealistic Joneses. They are shame based
+tabloid journalists for tech.
 
 [Direct download of crx
 file](https://github.com/eqdw/antigawker/blob/master/antigawker.crx?raw=true)
